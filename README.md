@@ -7,4 +7,6 @@ During training, the code prints out the loss at regular intervals so that you c
 
 What I need to work on: I still think that I need to practice more with convolutional neural networks and potentially make another model soon, trying to rely less on external sources for information.
 
+Sorry for the bucketload of comments in the code, but I wanted to map it all out for myself. 
+
 Overall, I learned a lot from this project and I'm excited to keep exploring and learning more about machine learning!
