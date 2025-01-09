@@ -1,5 +1,5 @@
 # FirstCNNModel
-So, this was my first experiment with convolutional neural networks and I have to say, I learned alot! As a beginner in machine learning, I tried my best to do as much as I could on my own, but as I am still learning, I found that some tutorials were really helpful in figuring out how to make this model.
+So, this was my first experiment with convolutional neural networks! As a beginner in machine learning, I tried my best to do as much as I could on my own, but as I am still learning, I found that some tutorials were really helpful in figuring out how to make this model.
 
 Basically, what this code does is train a convolutional neural network on the CIFAR-10 dataset. The model learns to classify images of different objects into one of ten categories, such as "airplane", "bird", "cat", and so on.
 
