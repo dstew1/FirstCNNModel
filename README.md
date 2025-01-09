@@ -6,7 +6,3 @@ Basically, what this code does is train a convolutional neural network on the CI
 During training, the code prints out the loss at regular intervals so that you can monitor how well the model is learning. Once training is complete, the code evaluates the accuracy of the model on a separate test set, and prints out the overall accuracy as well as the accuracy for each individual category.
 
 What I need to work on: I still think that I need to practice more with convolutional neural networks and potentially make another model soon, trying to rely less on external sources for information.
-
-Sorry for the bucketload of comments in the code, but I wanted to map it all out for myself. 
-
-Overall, I learned a lot from this project and I'm excited to keep exploring and learning more about machine learning!
